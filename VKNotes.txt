@@ -1,0 +1,12 @@
+http://datamine.mta.info/
+
+http://datamine.mta.info/user
+
+To access Static Data feeds:
+http://web.mta.info/developers/developer-data-terms.html#data
+
+Click on: Yes, I agree to these terms and conditions. 
+Scroll down and select one of the: Static Data Feeds
+
+Various GTFS:
+http://www.gtfs-data-exchange.com/
